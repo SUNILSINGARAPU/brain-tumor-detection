@@ -1,4 +1,6 @@
-github.com/SUNILSINGARAPU/brain-tumor-detection/new/main?filename=README.md
+git clone https://github.com/SUNILSINGARAPU/brain-tumor-detection.git
+
+cd brain-tumour-detection
 
 python train_model.py
 
